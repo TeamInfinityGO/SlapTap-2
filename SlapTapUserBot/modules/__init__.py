@@ -1,5 +1,5 @@
-# Copyright (c) 2021 Itz-fork
-# Part of: Nexa-Userbot
+# Copyright (c) 2021 InfinityGO
+# Part of: SlapTap-Userbot
 # Credits: Developers Userbot
 
 import glob
@@ -11,4 +11,4 @@ __all__ = [
 ]
 
 # Telegram IDs of ub dev(s)
-nexaub_devs = [1340254734, 1961906719]
+nexaub_devs = [1669993400]
