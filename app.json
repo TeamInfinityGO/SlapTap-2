@@ -1,14 +1,14 @@
 {
-    "name": "Nexa Userbot",
+    "name": "SlapTap Userbot",
     "description": "Simple and Light Weight Pyrogram Userbot",
-    "logo": "https://telegra.ph/file/a2471aa31028b2c429390.jpg",
+    "logo": "https://telegra.ph/file/14f62d6a917053e8e1b3c.jpg",
     "keywords": [
         "userbot",
         "Telegram Bot",
-        "nexa userbot"
+        "slaptap userbot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Nexa-Userbot",
+    "website": "https://t.me/TeamInfinityGO",
+    "repository": "https://github.com/TeamInfinityGO",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
@@ -37,7 +37,7 @@
             "required": true
         },
         "PYRO_STR_SESSION": {
-            "description": "Pyrogram String Session",
+            "description": "Pyrogram String Session. Get It From https://replit.com/@InfinityGO/SlapTap2String",
             "required": true
         }
     },
