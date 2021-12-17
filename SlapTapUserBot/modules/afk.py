@@ -1,5 +1,5 @@
-# Copyright (c) 2021 Itz-fork
-# Part of: Nexa-Userbot
+# Copyright (c) 2021 InfinityGO
+# Part of: SlapTap-Userbot
 import os
 
 from pyrogram import filters
@@ -48,7 +48,7 @@ async def me_goin_oflin(_, message: Message):
     afk_msg = await e_or_r(nexaub_message=message, msg_text="`Processing...`")
     afk_reason = get_arg(message)
     if not afk_reason:
-        afk_reason = "I'm Busy For Now! Will Come Online Later :)"
+        afk_reason = "I'm Busy Right Now! Will Come Online Later :)"
     afk_time = datetime.now().replace(microsecond=0)
     await me_afk(afk_time=afk_time, afk_reason=afk_reason)
     await afk_msg.edit(f"**I'm Going AFK** \n\n**Reason:** `{afk_reason}`")
