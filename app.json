@@ -9,7 +9,7 @@
     ],
     "website": "https://t.me/TeamInfinityGO",
     "repository": "https://github.com/TeamInfinityGO",
-    "success_url": "https://t.me/NexaBotsUpdates",
+    "success_url": "https://t.me/SlapTap",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
