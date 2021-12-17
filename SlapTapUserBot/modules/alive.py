@@ -1,6 +1,6 @@
-# Copyright (c) 2021 Itz-fork
-# Part of: Nexa-Userbot
-# Credits: Developers Userbot | Nexa Userbot
+# Copyright (c) 2021 InfinityGO
+# Part of: SlapTap-Userbot
+# Credits: Developers Userbot | SlapTap Userbot
 
 import time
 import os
