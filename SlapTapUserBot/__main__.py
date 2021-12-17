@@ -10,9 +10,9 @@ from nexa_userbot.core.startup_checks import check_or_set_log_channel, check_arq
 
 async def main_startup():
     print("""
-|| Nexa Userbot ||
+|| SlapTap Userbot ||
 
-Copyright (c) 2021 Itz-fork
+Copyright (c) 2021 InfinityGO
 """
     )
     await NEXAUB.start()
@@ -21,7 +21,7 @@ Copyright (c) 2021 Itz-fork
     # Check if arq api is available else it'll obtain a one
     await check_arq_api()
     try:
-        await NEXAUB.send_message(chat_id=log_channel_id[1], text="`Nexa Userbot is alive!`")
+        await NEXAUB.send_message(chat_id=log_channel_id[1], text="`SlapTap Userbot is alive!`")
     except:
         print("WARNING: There was an error while creating the LOG CHANNEL please add a one manually!")
     await idle()
