@@ -1,11 +1,11 @@
 #!/usr/bin/bash
 
 echo "
-============ Nexa Userbot ============
+============ SlapTap Userbot ============
 
 Starting Now...
 
-Copyright (c) 2021 Itz-fork | @NexaBotsUpdates
+Copyright (c) 2021 InfinityGo | @SlapTap
 "
 
 start_nexaub () {
